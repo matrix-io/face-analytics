@@ -1,6 +1,6 @@
 {
   "name": "face-analytics",
-  "version": "0.0.2",
+  "version": "0.0.3",
   "description": "A face detection cloud API for Node.js.",
   "main": "index.js",
   "dependencies": {

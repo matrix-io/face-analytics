@@ -21,5 +21,6 @@ face.detect(img)
   },function(error){
     //throw errors
     console.log(error);
-});
+  }
+);
 ```

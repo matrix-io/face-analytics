@@ -15,11 +15,11 @@ Detect faces and return analytics based on the image provided.
 ```
 var img = "https://storage.googleapis.com/detection-server-tests/characters.jpg";
 face.detect(img)
-	.then(function(response) {
-		//throw responses
-		console.log(response);
-	},function(error){
-		//throw errors
-		console.log(error);
-	});
+  .then(function(response) {
+    //throw responses
+    console.log(response);
+  },function(error){
+    //throw errors
+    console.log(error);
+});
 ```

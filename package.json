@@ -1,0 +1,39 @@
+{
+  "name": "face-analytics",
+  "version": "0.0.1",
+  "description": "A face detection cloud API for Node.js.",
+  "main": "index.js",
+  "dependencies": {
+    "lodash": "^3.10.1",
+    "q": "^1.4.1",
+    "unirest": "^0.4.2"
+  },
+  "devDependencies": {
+    "chai": "^3.4.1",
+    "mocha": "^2.3.4",
+    "supertest": "^1.1.0"
+  },
+  "scripts": {
+    "test": "mocha --reporter spec tests"
+  },
+  "keywords": [
+    "face detection",
+    "detection",
+    "computer vision",
+    "cloud api",
+    "api"
+  ],
+  "repository": {
+    "type": "git",
+    "url": "git@github.com:matrix-io/face-analytics.git"
+  },
+  "author": "Brian Sanchez <brian.sanchez@admobilize.com> (http://matrix.one)",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/matrix-io/face-analytics/issues"
+  },
+  "homepage": "https://github.com/matrix-io/face-analytics",
+  "directories": {
+    "test": "tests"
+  }
+}

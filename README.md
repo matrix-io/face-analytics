@@ -7,7 +7,7 @@ npm install face-analytics
 ### Module initialization
 Initialize the module, and pass the key either by environment variable or directly.
 ```
-var face = require('matrix-analytics').key(process.env.API_KEY);
+var face = require('face-analytics').key(process.env.API_KEY);
 ```
 
 ### Detect Faces

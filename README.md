@@ -1,4 +1,3 @@
-
 ### Installation
 Install with npm.
 ```

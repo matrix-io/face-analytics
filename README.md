@@ -1,7 +1,7 @@
 ### Installation
 Install with npm.
 ```
-npm install matrix-analytics
+npm install face-analytics
 ```
 
 ### Module initialization

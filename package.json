@@ -1,6 +1,6 @@
 {
   "name": "face-analytics",
-  "version": "0.0.6",
+  "version": "0.0.7",
   "description": "A face detection cloud API for Node.js (e.g. Age, Gender, Emotions), generate full analytics for photographs (Popular Gender, Emotion, etc...), for the MATRIX OS, and MATRIX Platform.",
   "main": "index.js",
   "dependencies": {

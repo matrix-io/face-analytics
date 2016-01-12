@@ -1,5 +1,7 @@
 # Face Analytics
-Face detection cloud API for Node.js (e.g. Age, Gender, Emotions), generate full analytics for photographs (Popular Gender, Popular Emotion, etc...), for the MATRIX OS, and MATRIX Platform, and standalone deployments.
+Face detection cloud API in Node.js (e.g. Age, Gender, Emotions), generate full analytics for photographs (Popular Gender, Popular Emotion, etc...), for MATRIX OS, MATRIX Platform, and standalone deployments.
+
+Get your **FREE** API Key at [mashape.com](https://market.mashape.com/matrixone/face-analytics)
 
 ### Installation
 Install with npm.

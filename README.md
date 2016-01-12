@@ -1,3 +1,6 @@
+# Face Analytics
+Face detection cloud API for Node.js (e.g. Age, Gender, Emotions), generate full analytics for photographs (Popular Gender, Popular Emotion, etc...), for the MATRIX OS, and MATRIX Platform, and standalone deployments.
+
 ### Installation
 Install with npm.
 ```

@@ -1,6 +1,6 @@
 {
   "name": "face-analytics",
-  "version": "0.0.8",
+  "version": "0.0.9",
   "description": "A face detection cloud API for Node.js for the MATRIX OS, and MATRIX Platform.",
   "main": "index.js",
   "dependencies": {

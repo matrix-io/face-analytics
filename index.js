@@ -31,8 +31,8 @@ var unirest = require('unirest')
     .end(function (response) {
       if(response.status === 200) {
         defer.resolve({
-          "detections":response.body.results[0].data, 
-          "analytics": response.body.results[0].analytics
+          "detections":response.body.results[0].data,
+          "analytics": response.body.results[0].meta
         });
       } else {
         defer.reject({ 'message': 'There is an issue with the API server.', 'status': response.status });
